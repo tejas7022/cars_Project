@@ -1,0 +1,9 @@
+{
+	"name": "adfcarstej7022",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1ebd537-1033-4483-a39f-6e24e72168f5",
+		"tenantId": "078fdae5-f2f5-42a6-8099-9ca7e574ac43"
+	}
+}
